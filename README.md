@@ -5,6 +5,13 @@ Over time I will be uploading and documenting a variety of different versions of
 
 Previously this model and its successors has been used to examine a range of policy and new technology options for Australia, Indian and Russia. 
 
+# Versions
+* Matlab
+* Python
+* C++
+* Excel
+* Excel with VBA
+
 Sources
 =======
 * Wagner, L., & Foster, J. (2011). "Is There an Optimal Entry Time for Carbon Capture and Storage? A Case Study for Australia's National Electricity Market", Energy Economics Management Group, School of Economics,: The University of Queensland, Australia.
